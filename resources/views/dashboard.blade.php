@@ -35,7 +35,7 @@
 
                             <div class="d-flex align-items-center">
                                 <div class="card-icon rounded-circle d-flex align-items-center justify-content-center">
-                                    <i class="bi bi-cart"></i>
+                                    <i class="bi bi-archive"></i>
                                 </div>
                                 <div class="ps-3">
                                     <span class="text-success small pt-1 fw-bold"><b>Total post: </b>{{ $totalPosts }}</span>
@@ -67,7 +67,7 @@
 
                             <div class="d-flex align-items-center">
                                 <div class="card-icon rounded-circle d-flex align-items-center justify-content-center">
-                                    <i class="bi bi-currency-dollar"></i>
+                                    <i class="bx bxs-cloud-upload"></i>
                                 </div>
                                 <div class="ps-3">
                                     <span class="text-success small pt-1 fw-bold"><b>Total Published Post: </b>{{ $totalPublish }}</span>
@@ -99,7 +99,7 @@
 
                             <div class="d-flex align-items-center">
                                 <div class="card-icon rounded-circle d-flex align-items-center justify-content-center">
-                                    <i class="bi bi-people"></i>
+                                    <i class="bx bxs-cloud-download"></i>
                                 </div>
                                 <div class="ps-3">
                                     <span class="text-success small pt-1 fw-bold"><b>Total Unpublished Post: </b>{{ $totalUnPublish }}</span>
